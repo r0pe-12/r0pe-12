@@ -8,7 +8,7 @@ Full-Stack web developer
 * 🌍  I'm based in Montenegro
 * ✉️  You can contact me at [simonovicp12@gmail.com](mailto:simonovicp12@gmail.com)
 * 🚀  I'm currently working on [Online Library](http://tim2.ictcortex.me)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning Flutter
 
 ### Skills
 
