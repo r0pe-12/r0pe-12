@@ -6,7 +6,7 @@ Full Stack web developer
 ------------------------
 
 * 🌍  I'm based in Bijelo Polje, Montenegro
-* ✉️  You can contact me at [simonovic.petar.2005s@gmail.com](mailto:simonovic.petar.2005s@gmail.com)
+* ✉️  You can contact me at [simonovicp12@gmail.com](mailto:simonovicp12@gmail.com)
 * 🧠  I'm learning React
 
 ### Skills
